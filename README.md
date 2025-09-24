@@ -1,9 +1,9 @@
 # coffee-gdp-analysis-2000-2019
 
-1. Project Overview
+## 1. Project Overview
 Statistical analysis of the impact of coffee plantations on GDP in major coffee-exporting countries (2000–2019)
 
-2. Data Sources
+## 2. Data Source
 SECONDARY COFFEE DATASET FROM INTERNATIONAL COFFEE
 ORGANISATION(ICO): https://www.ico.org/new_historical.asp
 
@@ -12,29 +12,30 @@ SECONDARY GDP DATA FROM https://www.macrotrends.net/countries/BRA/brazil/gdp-gro
 SECONDARY POPULATION DATA FROM
 https://population.un.org/dataportal/data/indicators/49/locations/76,231,704,876,732,887,894,716,356/start/1999/end/2023/table/pivotbylocation
 
-3. Variable description in the datasets
-t: year
-prd_b: coffee production of Brazil
-dc_b: domestic coffee consumption of Brazil
-exp_b: coffee export of Brazil
-GDP_b: GDP of Brazil
-ppl_b: population of Brazil
-prd_e: coffee production of Ethiopia
-dc_e: domestic coffee consumption of Ethiopia
-exp_e: coffee export of Ethiopia
-GDP_e: GDP of Ethiopia
-ppl_e: population of Ethiopiaprd_v: coffee production of Vietnam
-dc_v: domestic coffee consumption of Vietnam
-exp_v: coffee export of Vietnam
-GDP_v: GDP of Vietnam
-ppl_v: population of Vietnam
-prd_i: coffee production of India
-dc_i: domestic coffee consumption of India
-exp_i: coffee export of India
-GDP_i: GDP of India
-ppl_i: population of India
+## 3. Variable description in the datasets<br>
+t: year<br>
+prd_b: coffee production of Brazil<br>
+dc_b: domestic coffee consumption of Brazil<br>
+exp_b: coffee export of Brazil<br>
+GDP_b: GDP of Brazil<br>
+ppl_b: population of Brazil<br>
+prd_e: coffee production of Ethiopia<br>
+dc_e: domestic coffee consumption of Ethiopia<br>
+exp_e: coffee export of Ethiopia<br>
+GDP_e: GDP of Ethiopia<br>
+ppl_e: population of Ethiopiaprd_v: coffee production of Vietnam<br>
+dc_v: domestic coffee consumption of Vietnam<br>
+exp_v: coffee export of Vietnam<br>
+GDP_v: GDP of Vietnam<br>
+ppl_v: population of Vietnam<br>
+prd_i: coffee production of India<br>
+dc_i: domestic coffee consumption of India<br>
+exp_i: coffee export of India<br>
+GDP_i: GDP of India<br>
+ppl_i: population of India<br>
 
-4. Methodology
+## 4. Methodology
+<br>
 LINE DIAGRAM: In a simple line diagram, we plot each pair of values in the xy plane. The plotted
 points are then joined successively by line segments and the resulting chart is known as a line
 diagram.
