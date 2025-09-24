@@ -80,3 +80,4 @@ The appropriate model is f(x) = c0 + c1 x + c2 x2 +⋯+ cn xn where ci are the p
 
 MULTICOLINEARITY: In statistics, multicollinearity is a phenomenon in which one predictor
 variable in a multiple regression model can be linearly predicted from the others with a substantial degree of accuracy.
+
