@@ -3,16 +3,14 @@
 1. Project Overview
 Statistical analysis of the impact of coffee plantations on GDP in major coffee-exporting countries (2000–2019)
 
-2. Data Source
+2. Data Sources
 SECONDARY COFFEE DATASET FROM INTERNATIONAL COFFEE
 ORGANISATION(ICO): https://www.ico.org/new_historical.asp
 
-SECONDARY GDP DATA FROM https://www.macrotrends.net/countries/BRA/brazil/gdp-
-gross-domestic-product
+SECONDARY GDP DATA FROM https://www.macrotrends.net/countries/BRA/brazil/gdp-gross-domestic-product
 
 SECONDARY POPULATION DATA FROM
-https://population.un.org/dataportal/data/indicators/49/locations/76,231,704,876,732,887,894,
-716,356/start/1999/end/2023/table/pivotbylocation
+https://population.un.org/dataportal/data/indicators/49/locations/76,231,704,876,732,887,894,716,356/start/1999/end/2023/table/pivotbylocation
 
 3. Variable description in the datasets
 t: year
@@ -81,3 +79,4 @@ The appropriate model is f(x) = c0 + c1 x + c2 x2 +⋯+ cn xn where ci are the p
 
 MULTICOLINEARITY: In statistics, multicollinearity is a phenomenon in which one predictor
 variable in a multiple regression model can be linearly predicted from the others with a substantial degree of accuracy.
+
